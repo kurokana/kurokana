@@ -21,3 +21,9 @@ Have learned:<br>
 Database:<br>
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceguya&show_icons=true&theme=tokyonight&rank_icon=github)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceguya&langs_count=10&theme=tokyonight&layout=compact)
+
+
