@@ -3,7 +3,7 @@
 </h2>
 
 - I'm 20 y.o.<br>
-- I'm currently learning PHP, Laravel and Postgres.<br><br>
+- I'm currently learning Laravel, PostgreSQL and ReactJs.<br><br>
 
 Operating System:<br>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
