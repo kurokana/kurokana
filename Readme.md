@@ -1,32 +1,74 @@
-<h2>Hai, i'm Naaeru! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-</h2>
+<h1 align="center">🩵 kurokana 🩵</h1>
+<p align="center"><em>「 quiet elegance, written in code 」</em></p>
 
-- I'm 20 y.o.<br>
-- I'm currently learning Laravel, PostgreSQL and ReactJs.<br><br>
+---
 
-Operating System:<br>
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><br><br>
+## 🌸 About Me
 
-Have learned:<br>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/>
+Hi, I’m **kurokana** — an Informatics Engineering student who writes code the way Akane performs:  
+gracefully calm, yet full of intent beneath the surface.  
 
+I believe good software isn’t loud — it’s consistent, thoughtful, and a little emotional.  
 
-Database:<br>
-<img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+- 💻 Focus: **Fullstack Web Development (Laravel, React, PostgreSQL)**  
+- ☁️ Interests: **AI**, **IoT**, and **minimal design systems**  
+- 🪷 OS: Ubuntu & Windows  
+- 🔭 Currently learning deeper system architecture and backend scalability  
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceguya&show_icons=true&theme=tokyonight&rank_icon=github)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceguya&langs_count=10&theme=tokyonight&layout=compact)
+## 💫 Featured Projects
+Here are a few projects I’ve built personally — each one a small reflection of calm persistence.
 
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [SmartPlants-IOT](https://github.com/kurokana/SmartPlants-IOT) | IoT-based smart plant monitoring system. Integrates sensors, dashboard, and automatic watering with ESP8266. | Laravel, JS, ESP8266 |
+| [E-Commerce-Hirawr](https://github.com/kurokana/E-Commerce-Hirawr) | E-commerce web application prototype built with Laravel and Bootstrap. | Laravel, MySQL |
+| [BookShelf](https://github.com/kurokana/BookShelf) | Simple book catalog app focusing on clean UI and usability. | HTML, CSS, JS |
 
+*(I only list my own projects — no forks, no noise.)*
+
+---
+
+## 🎐 Design Philosophy
+> “Calm doesn’t mean weak — it means controlled.”
+
+Coding isn’t about speed.  
+It’s about shaping something real out of logic and empathy.  
+That’s how I see software: an emotional artifact in a digital world.
+
+---
+
+## 🩵 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-F8E1E7?style=for-the-badge&logo=laravel&logoColor=E54C65"/>
+  <img src="https://img.shields.io/badge/React-DDF5FF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-CDE8FF?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+  <img src="https://img.shields.io/badge/MySQL-EAF6FF?style=for-the-badge&logo=mysql&logoColor=00758F"/>
+  <img src="https://img.shields.io/badge/Ubuntu-F3E5F5?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+  <img src="https://img.shields.io/badge/VSCode-E0F7FA?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+</p>
+
+---
+
+## 🌙 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurokana&show_icons=true&theme=graywhite&hide_border=true&title_color=7FB3D5&icon_color=5DADE2" alt="GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kurokana&theme=default&hide_border=true&ring=89CFF0&fire=89CFF0&currStreakLabel=5DADE2" alt="GitHub streak"/>
+</p>
+
+---
+
+## 🕊 Little Things I Value
+- ✨ Clean commits and descriptive messages  
+- 🌸 Small, readable functions over clever hacks  
+- ☁️ Simplicity with emotion  
+- 🫖 Tea, lo-fi, and silent productivity
+
+---
+
+<p align="center">
+  <em>「 A calm presence leaves a stronger mark than noise. 」</em><br>
+  <a href="https://github.com/kurokana">github.com/kurokana</a>
+</p>
