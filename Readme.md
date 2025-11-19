@@ -41,12 +41,18 @@ That’s how I see software: an emotional artifact in a digital world.
 
 ## 🩵 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-F8E1E7?style=for-the-badge&logo=laravel&logoColor=E54C65"/>
-  <img src="https://img.shields.io/badge/React-DDF5FF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-CDE8FF?style=for-the-badge&logo=postgresql&logoColor=316192"/>
-  <img src="https://img.shields.io/badge/MySQL-EAF6FF?style=for-the-badge&logo=mysql&logoColor=00758F"/>
-  <img src="https://img.shields.io/badge/Ubuntu-F3E5F5?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
-  <img src="https://img.shields.io/badge/VSCode-E0F7FA?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Laravel-F8E1E7?style=for-the-badge&logo=laravel&logoColor=E54C65"/>
+<img src="https://img.shields.io/badge/PHP-EEE?style=for-the-badge&logo=php&logoColor=777BB4"/> 
+<img src="https://img.shields.io/badge/React-DAEFFA?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Python-E6F8E0?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-CDE8FF?style=for-the-badge&logo=postgresql&logoColor=316192"/> 
+<img src="https://img.shields.io/badge/MySQL-EAF6FF?style=for-the-badge&logo=mysql&logoColor=00758F"/> 
+<img src="https://img.shields.io/badge/Ubuntu-F3E5F5?style=for-the-badge&logo=ubuntu&logoColor=E95420"/> 
+<img src="https://img.shields.io/badge/Cisco_Networking-E7F3FF?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/> 
+<img src="https://img.shields.io/badge/ESP32/ESP8266-EFFBF5?style=for-the-badge&logo=espressif&logoColor=E7352C"/> 
+<img src="https://img.shields.io/badge/Wokwi-FFF0E5?style=for-the-badge&logo=wokwi&logoColor=00A86B"/> 
+<img src="https://img.shields.io/badge/Blynk-EAFBF0?style=for-the-badge&logo=blynk&logoColor=2ECC71"/> 
+<img src="https://img.shields.io/badge/VSCode-E0F7FA?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/> 
 </p>
 
 ---
